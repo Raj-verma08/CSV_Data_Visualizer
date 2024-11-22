@@ -24,6 +24,6 @@ A Python-based data visualization tool that reads data from a CSV file and gener
 
 # Screenshots
 
-## GUI 
+ 
 ![Screenshot 1](images/s1.png) ![Screenshot 2](images/s2.png) ![Screenshot 3](images/s3.png) ![Screenshot 3](images/s4.png) ![Screenshot 3](images/s5.png)
 
